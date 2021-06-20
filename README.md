@@ -1,2 +1,2 @@
-[![lemn GitHub stats](https://github-readme-stats.vercel.app/api?username=lem-n&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/lem-n)
+[![lemn GitHub stats](https://github-readme-stats.vercel.app/api?username=lem-n&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/lem-n)  
 [![lemn GitHub langs](https://github-readme-stats.vercel.app/api/top-langs?username=lem-n&count_private=true&theme=tokyonight&layout=compact&exclude_repo=wow-addon-ts-template,wow-discord-rpc,mux-ui,nvim,dotfiles,configs,dots)](https://github.com/lem-n)
